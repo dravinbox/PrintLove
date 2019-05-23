@@ -13,3 +13,6 @@ $ cmake --build <ProjectPath>/PrintLove/cmake-build-debug --target PrintLove -- 
 ./cmake-build-debug/PrintLove
 
 ```
+
+## 效果图
+![avatar](./love.png)
